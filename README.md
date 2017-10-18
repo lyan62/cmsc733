@@ -1,3 +1,6 @@
-# cmsc733
-
-Projects completed in matlab for computer vision course cmsc733 in 2017 spring
+## Computer vision related implementation
+- Kmeans clustering & edge detection
+- Paranoma
+- Face swap
+- SfM
+- event-based visual flow
